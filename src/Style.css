@@ -1,0 +1,28 @@
+*{
+    margin: 1;
+    padding: 1;
+    box-sizing: border-box;
+}
+
+body{
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(71,45,253,1) 100%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    font-size: 35px;
+    color:springgreen
+    
+}
+button{
+     align-items: center;
+        height: 30px;
+        width: 80px;
+        border-radius: 20px;
+        background-color: #d7c583;
+    
+}
